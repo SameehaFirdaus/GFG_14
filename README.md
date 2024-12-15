@@ -7,7 +7,7 @@ Tags:
   - Design-Pattern
 ---
 
-# 🚀 _Day 1. Implement Atoi_ 🧠
+# 🚀 _Day 14. Implement Atoi_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi)
 
